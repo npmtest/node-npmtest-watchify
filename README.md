@@ -1,7 +1,7 @@
 # test coverage for  [watchify (v3.9.0)](https://github.com/substack/watchify)  [![npm package](https://img.shields.io/npm/v/npmtest-watchify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-watchify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-watchify.svg)](https://travis-ci.org/npmtest/node-npmtest-watchify)
 #### watch mode for browserify builds
 
-[![NPM](https://nodei.co/npm/watchify.png?downloads=true)](https://www.npmjs.com/package/watchify)
+[![NPM](https://nodei.co/npm/watchify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/watchify)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-watchify/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,11 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-watchify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-watchify/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-watchify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-watchify/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-watchify/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-watchify/build/coverage.html/index.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-watchify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-watchify/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-watchify/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-watchify%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-watchify/build/test-report.html)
+[![test-report](https://npmtest.github.io/node-npmtest-watchify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-watchify/build/test-report.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-watchify/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-watchify%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-watchify/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-watchify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-watchify/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-watchify/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +28,6 @@
 {
     "author": {
         "name": "James Halliday",
-        "email": "mail@substack.net",
         "url": "http://substack.net"
     },
     "bin": {
@@ -74,25 +73,20 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "feross",
-            "email": "feross@feross.org"
+            "name": "feross"
         },
         {
-            "name": "mafintosh",
-            "email": "mathiasbuus@gmail.com"
+            "name": "mafintosh"
         },
         {
-            "name": "substack",
-            "email": "substack@gmail.com"
+            "name": "substack"
         },
         {
-            "name": "zertosh",
-            "email": "zertosh@gmail.com"
+            "name": "zertosh"
         }
     ],
     "name": "watchify",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/substack/watchify.git"
