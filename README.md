@@ -1,4 +1,7 @@
-# test coverage for  [watchify (v3.9.0)](https://github.com/substack/watchify)  [![npm package](https://img.shields.io/npm/v/npmtest-watchify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-watchify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-watchify.svg)](https://travis-ci.org/npmtest/node-npmtest-watchify)
+# npmtest-watchify
+
+#### test coverage for  [watchify (v3.9.0)](https://github.com/substack/watchify)  [![npm package](https://img.shields.io/npm/v/npmtest-watchify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-watchify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-watchify.svg)](https://travis-ci.org/npmtest/node-npmtest-watchify)
+
 #### watch mode for browserify builds
 
 [![NPM](https://nodei.co/npm/watchify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/watchify)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-watchify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-watchify/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-watchify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-watchify/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-watchify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-watchify/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-watchify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-watchify/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-watchify/build/test-report.html](https://npmtest.github.io/node-npmtest-watchify/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-watchify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-watchify/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-watchify/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-watchify/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-watchify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-watchify/build/apidoc.html)
 
